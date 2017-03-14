@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sphere()
+comment1.params=newDiameter
+comment1.target=Sphere(double)
+comment2.params=diameter
+comment2.target=void\ setDiameter(double)
+comment3.params=
+comment3.target=double\ getDiameter()
+comment4.params=radius
+comment4.target=double\ Diameter(double)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
